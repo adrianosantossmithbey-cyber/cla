@@ -40,14 +40,14 @@ For more installation options, uninstall steps, and troubleshooting, see the [se
 
     **NPM (Deprecated):**
     ```bash
-    npm install -g @anthropic-ai/claude-code
+    npm install -g @anthropic--code
     ```
 
 2. Navigate to your project directory and run `claude`.
 
 ## Plugins
 
-This repository includes several Claude Code plugins that extend functionality with custom commands and agents. See the [plugins directory](./plugins/README.md) for detailed documentation on available plugins.
+This repository includes several Claude Code plugins that ety with custom commands and agents. See the [plugins directory](./plugins/README.md) for detailed documentation on available plugins.
 
 ## Reporting Bugs
 
@@ -57,16 +57,4 @@ We welcome your feedback. Use the `/bug` command to report issues directly withi
 
 Join the [Claude Developers Discord](https://anthropic.com/discord) to connect with other developers using Claude Code. Get help, share feedback, and discuss your projects with the community.
 
-## Data collection, usage, and retention
-
-When you use Claude Code, we collect feedback, which includes usage data (such as code acceptance or rejections), associated conversation data, and user feedback submitted via the `/bug` command.
-
-### How we use your data
-
-See our [data usage policies](https://code.claude.com/docs/en/data-usage).
-
-### Privacy safeguards
-
-We have implemented several safeguards to protect your data, including limited retention periods for sensitive information, restricted access to user session data, and clear policies against using feedback for model training.
-
-For full details, please review our [Commercial Terms of Service](https://www.anthropic.com/legal/commercial-terms) and [Privacy Policy](https://www.anthropic.com/legal/privacy).
+## Data collection, usage, 
